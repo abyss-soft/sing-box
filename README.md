@@ -12,6 +12,9 @@ https://sing-box.sagernet.org
 
 https://community.sagernet.org/c/sing-box/
 
+## Примеры конфигураций
+https://github.com/abyss-soft/sing-box/tree/dev-next/docs/configuration
+
 ## License
 
 ```
